@@ -19,6 +19,7 @@ Install the `pycryptodome` library if you haven't already:
 
 ```bash
 pip install pycryptodome
+```
 ## Usage
 
 ### Encryptor
@@ -37,6 +38,7 @@ The `encryptor.py` script encrypts a specified file and performs the following a
 
 ```bash
 python encryptor.py
+```
 
 Follow the prompt to enter the file name to encrypt. The script will generate a random encryption key and contact.
 
@@ -49,6 +51,7 @@ The `decryptor.py` script decrypts a file that was encrypted by the `encryptor.p
 
 ```bash
 python decryptor.py
+```
 
 This will decrypt the encrypted files
 
