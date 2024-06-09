@@ -4,7 +4,7 @@ This project contains two Python scripts for encrypting and decrypting files usi
 
 ## Files
 
-1. `main.py`: Script to encrypt a file with AES-256 algorithm (+base 64).
+1. `encryptor.py`: Script to encrypt a file with AES-256 algorithm (+base 64).
 2. `decryptor.py`: Script to decrypt an encrypted file with AES-256 algorithm (+base64).
 
 ## Requirements
